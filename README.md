@@ -1,4 +1,6 @@
 # Go GraphQL API Call
 
 ## Run
-`go run main.go`
+```go
+go run main.go
+```
